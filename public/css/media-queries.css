@@ -247,9 +247,9 @@
    -------------------------------------------------------------------- */
    #about .profile-pic { display: none; }
    #about .download .button {
-      width: 100%;
+      width: 75%;
       text-align: center;
-      padding: 15px 20px;
+      padding: 10px 15px;
    }
    #about .main-col { padding-right: 30px; }
 

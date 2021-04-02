@@ -12,9 +12,10 @@
    d. Resume Section
    e. Portfolio Section
    f. Call To Action Section
-   g. Testimonials Section
-   h. Contact Section
-   i. Footer
+   g. Activities section
+   h. Testimonials Section
+   i. Contact Section
+   j. Footer
 
 ===================================================================== */
 
@@ -39,6 +40,7 @@ body ::-moz-selection {
    background: #f06000;
  }
 
+ 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
 /* ------------------------------------------------------------------ */
@@ -221,9 +223,9 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 150px;
-   height: 150px;
-   border-radius: 25%;
+   width: 450px;
+   height: 400px;
+   border-radius: 35%;
    border: 5px solid #11ABB0;
 }
 #about .contact-details { width: 41.66667%; }
@@ -257,7 +259,7 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
+#resume a, #resume a:visited  { color: #074547; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {

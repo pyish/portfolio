@@ -17,10 +17,10 @@ class Footer extends Component {
               {networks}
             </ul>
             <ul className="copyright">
-              <li>&copy; Copyright {new Date().getFullYear()} Alex Bangau</li>
+              <li>&copy; Copyright {new Date().getFullYear()} ishasir</li>
               <li>
-                Design by{" "}
-                <a href="https://github.com/rammazzoti2000">ale[x360]</a>
+                Design by{""}
+                <a href="ishasir05@gmail.com"> ishasir </a>
               </li>
             </ul>
             </div>

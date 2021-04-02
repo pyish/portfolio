@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import resume from '../assets/resume.pdf'
+import activities from '../assets/activities.pdf'
 
 class About extends Component {
   render() {
@@ -19,14 +20,14 @@ class About extends Component {
       <section id="about">
       <div className="row">
          <div className="three columns">
-            <img className="profile-pic"  src={profilepic} alt="Alex Bangau Profile Pic" />
+            <img className="profile-pic"  src={profilepic} alt="Ishmael kipkoech Profile Pic" />
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>I studied Electronics and Communication, and during my studies I got in contact with the basic concepts of programming. Since then I've always wanted to become a developer. Fortunately I have discovered Microverse and joined without any hesitation.<br /><br />
+            <p>I studied Computer Science, and during my studies I got in contact with the basic concepts of programming. Since then I've always wanted to become a developer. Fortunately I  discovered Pwani Computer Science student Assosciation (PUCSA) and later on Swahilipot HUb and joined without any hesitation.<br /><br />
 
-            I am passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.</p>
+            I am passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring exciting web development opportunities in startups as well as companies with scale.</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
@@ -42,6 +43,11 @@ class About extends Component {
                <div className="columns download">
                   <p>
                     <a href={resume} target="_blank" rel="noopener noreferrer" className="button"><i className="fa fa-download"></i>Download Resume</a>
+                  </p>
+               </div>
+               <div className="columns download">
+                  <p>
+                    <a href={activities} target="_blank" rel="noopener noreferrer" className="button"><i className="fa fa-download"></i>Trainings And Activities invloved.</a>
                   </p>
                </div>
             </div>

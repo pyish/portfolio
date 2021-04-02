@@ -11,6 +11,7 @@ import Portfolio from './Components/Portfolio';
 import $ from 'jquery';
 import './App.css';
 
+
 class App extends Component {
   constructor(props) {
     super(props);
