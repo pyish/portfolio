@@ -60,11 +60,17 @@
       {
         "school":"Pwani  University ",
         "degree":"Computer Science",
-        "graduated":"former student",
+        "graduated":"Alumni",
         "description":"The first year required the study of foundations of mathematics, physics, computer science, computer networks and electronics. The second year required the study of advanced mathematics and physics, and the fundamentals of electronic systems."
       }
     ],
     "work":[
+      {
+        "company":"DREAMARN",
+        "title":"Technical Support & Digital marketing",
+        "years":"April 2021 - Present",
+        "description":"I have achieved alot proffesionally since  I solve some many computers and worked with many clients"
+      },
       {
         "company":"Freelance Web developer ",
         "title":"UI$UX Design,Web maintance,Networking,Computer related consultation,Fixing broken Laptops and PCs,other computer related issues",
