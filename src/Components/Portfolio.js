@@ -6,7 +6,7 @@ class Portfolio extends Component {
       <section id="portfolio">
         <div className="row projects">
           <div className="twelve columns collapsed">
-            <h1>Check Out Some of My Works.</h1>
+            <h1>Check Out Some of My Work.</h1>
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
@@ -27,11 +27,11 @@ class Portfolio extends Component {
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
-                        <li><a href="https://pyish.pythonanywhere.com/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                        <li><a href="https://jeremih.pythonanywhere.com/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
                         <li><a href="https://github.com/pyish/SoinVet" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
                       </div>
                       <div className="languages">
-                        <i className="devicon-rails-plain-wordmark technology"></i>
+                        <i className="devicon-django-plain-wordmark  technology"></i>
                         <i className="devicon-react-plain-wordmark technology"></i>
                       </div>
                     </ul>
@@ -52,7 +52,8 @@ class Portfolio extends Component {
                         <li><a href="https://github.com/pyish/fashion_web.git" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
                       </div>
                       <div className="languages">
-                        <i className="devicon-react-plain-wordmark technology"></i>
+                        <i className="devicon-django-plain-wordmark  technology"></i>
+                        <i className="devicon-python-plain-wordmark  technology"></i>
                       </div>
                     </ul>
                   </div>
@@ -72,8 +73,8 @@ class Portfolio extends Component {
                         <li><a href="https://github.com/rammazzoti2000/ror-capstone-lifestyle" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
                       </div>
                       <div className="languages">
-                        <i className="devicon-rails-plain-wordmark technology"></i>
-                        <i className="devicon-sass-original technology"></i>
+                        <i className="devicon-python-plain-wordmark  technology"></i>
+                        <i className="devicon-django-plain-wordmark  technology"></i>
                       </div>
                     </ul>
                   </div>
