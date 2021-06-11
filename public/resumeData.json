@@ -46,17 +46,19 @@
       },
 
       {
-        "company":"Swahilipot Hub ",
-        "title":"Python Programming",
-        "years":"May 2020 - June 2020",
+        "school":"Swahilipot Hub ",
+        "degree":"Python Programming",
+        "graduated":"May 2020 - June 2020",
         "description":"Learned Python and its frameworks(Django). Contributed to the team with small tasks, such as code review, design improvements, etc."
       },
+
       {
-        "company":"Swahilipot Hub ",
-        "title":"CISCO,Networking Academy",
-        "years":"June 2020 - July 2020",
+        "school":"Swahilipot Hub ",
+        "degree":"CISCO,Networking Academy",
+        "graduated":"June 2020 - July 2020",
         "description":"Certified. I did Networking Essentials and Introduction to Cyber Security."
       },
+
       {
         "school":"Pwani  University ",
         "degree":"Computer Science",
@@ -68,7 +70,7 @@
       {
         "company":"DREAMARN",
         "title":"Technical Support & Digital marketing",
-        "years":"April 2021 - Present",
+        "years":"March 2021 - June 2021",
         "description":"I have achieved alot proffesionally since  I solve some many computers and worked with many clients"
       },
       {
