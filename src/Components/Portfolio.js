@@ -10,20 +10,13 @@ class Portfolio extends Component {
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
-                  <a href="https://github.com/pyish/SoinVet" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/06.png" alt="final-capstone" /></a>
+                  <a href="https://github.com/pyish/SoinVet" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/soin.png" alt="final-capstone" /></a>
                   <div className="art-description">
                     <div className="text-wrapper">
                       <h3>Veterinary Web app</h3>
                       <p>Soin Vet is a web-based system written in Python 3 and using Django framework with the following functionalities. 
-                        1.Register new users (Veterinary officers, Farmers and Students).
-                        2.Log in registered users and be directed to their respective dashboards.
-                        3.Veterinary officers can take appointments from farmers. 
-                        4.Veterinary officers can take veterinary related records like artificial insemination, breeding record, calf registration, clinical approach, consultation, death approach, deworming, livestock inventory, pregnancy diagnosis, sick approach and vaccination. 
-                        5.Farmers can view and book appointments with Veterinary officers. 
-                        6.Farmers can retrieve their respective forms entered by veterinary officers.
-                        7.Farmers can take inventory of their farm.
-                        8.Admin can create learning resources for students
-                        9.Students can access learning resources.</p>
+                        1.Register new users (Veterinary officers, Farmers and Students). 
+                        2.Students can access learning resources.</p>
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
@@ -40,7 +33,7 @@ class Portfolio extends Component {
               </div>
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
-                  <a href="https://github.com/pyish/fashion_web.git" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/07.png" alt="react-capstone" /></a>
+                  <a href="https://github.com/pyish/travel3" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/07.png" alt="react-capstone" /></a>
                   <div className="art-description">
                     <div className="text-wrapper">
                       <h3>fashion_web</h3>
@@ -49,7 +42,7 @@ class Portfolio extends Component {
                     <ul className="actions">
                       <div className="actions-wrapper">
                         <li><a href="https://shishaa.pythonanywhere.com/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
-                        <li><a href="https://github.com/pyish/fashion_web.git" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
+                        <li><a href="https://github.com/pyish/travel3" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
                       </div>
                       <div className="languages">
                         <i className="devicon-django-plain-wordmark  technology"></i>
@@ -61,16 +54,16 @@ class Portfolio extends Component {
               </div>              
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
-                  <a href="https://github.com/rammazzoti2000/ror-capstone-lifestyle" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/01.jpg" alt="ror-capstone-lifestyle" /></a>
+                  <a href="https://github.com/pyish/dreamarn.git" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/01.jpg" alt="ror-capstone-lifestyle" /></a>
                   <div className="art-description">
                     <div className="text-wrapper">
-                      <h3>LifeOpedia! WebApp</h3>
-                      <p>Webapp where users can publish lifestyle articles, bookmark favourite articles, leave comments and upvote an article.</p>
+                      <h3>Dreamarn </h3>
+                      <p>This is the dreamarn enterprise landing page.</p>
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
-                        <li><a href="https://ror-capstone-lifeopedia.herokuapp.com/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
-                        <li><a href="https://github.com/rammazzoti2000/ror-capstone-lifestyle" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
+                        <li><a href="https://dreamarn.netlify.app" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                        <li><a href="https://github.com/pyish/dreamarn.git" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
                       </div>
                       <div className="languages">
                         <i className="devicon-python-plain-wordmark  technology"></i>
@@ -80,6 +73,27 @@ class Portfolio extends Component {
                   </div>
                 </article>
               </div>
+              <div className="article-wrapper">
+                <article className="col-12 col-12-xsmall work-item">
+                  <a href="https://github.com/pyish/travel.git" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/ishtravel.png" alt="react-capstone" /></a>
+                  <div className="art-description">
+                    <div className="text-wrapper">
+                      <h3>ishtravels</h3>
+                      <p>For tours and good places to visit.</p>
+                    </div>
+                    <ul className="actions">
+                      <div className="actions-wrapper">
+                        <li><a href="https://ishtravels.netlify.app/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                        <li><a href="https://github.com/pyish/travel.git" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
+                      </div>
+                      <div className="languages">
+                        <i className="devicon-django-plain-wordmark  technology"></i>
+                        <i className="devicon-python-plain-wordmark  technology"></i>
+                      </div>
+                    </ul>
+                  </div>
+                </article>
+              </div> 
             </div>
           </div>
         </div>
