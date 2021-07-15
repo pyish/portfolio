@@ -39,6 +39,12 @@
   "resume":{
     "education":[
       {
+        "school":"Udemy Online Academy",
+        "degree":"Node Js Developer course.",
+        "graduated":"July 2021",
+        "description":"Involves learning NodeJs as a platform for App and Web development while using javascript as the language."
+      },
+      {
         "school":"Microsoft",
         "degree":"Developing Solutions for Azure Microsoft Azure",
         "graduated":"March 2021",
