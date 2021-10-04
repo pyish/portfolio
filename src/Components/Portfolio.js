@@ -20,8 +20,7 @@ class Portfolio extends Component {
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
-                        <li><a href="https://jeremih.pythonanywhere.com/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
-                        <li><a href="https://github.com/pyish/SoinVet" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
+                        <li><a href="http://ishasr.pythonanywhere.com/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
                       </div>
                       <div className="languages">
                         <i className="devicon-django-plain-wordmark  technology"></i>
@@ -42,7 +41,6 @@ class Portfolio extends Component {
                     <ul className="actions">
                       <div className="actions-wrapper">
                         <li><a href="https://shishaa.pythonanywhere.com/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
-                        <li><a href="https://github.com/pyish/travel3" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
                       </div>
                       <div className="languages">
                         <i className="devicon-django-plain-wordmark  technology"></i>
@@ -63,7 +61,6 @@ class Portfolio extends Component {
                     <ul className="actions">
                       <div className="actions-wrapper">
                         <li><a href="https://dreamarn.netlify.app" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
-                        <li><a href="https://github.com/pyish/dreamarn.git" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
                       </div>
                       <div className="languages">
                         <i className="devicon-python-plain-wordmark  technology"></i>
@@ -84,7 +81,6 @@ class Portfolio extends Component {
                     <ul className="actions">
                       <div className="actions-wrapper">
                         <li><a href="https://ishtravels.netlify.app/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
-                        <li><a href="https://github.com/pyish/travel.git" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
                       </div>
                       <div className="languages">
                         <i className="devicon-django-plain-wordmark  technology"></i>
