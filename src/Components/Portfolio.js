@@ -72,15 +72,15 @@ class Portfolio extends Component {
               </div>
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
-                  <a href="https://github.com/pyish/travel.git" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/ishtravel.png" alt="react-capstone" /></a>
+                  <a href="https://github.com/pyish/kinanta.git" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/ishtravel.png" alt="react-capstone" /></a>
                   <div className="art-description">
                     <div className="text-wrapper">
-                      <h3>ishtravels</h3>
+                      <h3>KB6 Adventures</h3>
                       <p>For tours and good places to visit.</p>
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
-                        <li><a href="https://ishtravels.netlify.app/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                        <li><a href="https://kb6adventures.netlify.app" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
                       </div>
                       <div className="languages">
                         <i className="devicon-django-plain-wordmark  technology"></i>
