@@ -74,6 +74,12 @@
     ],
     "work":[
       {
+        "company":"EAGLE GROUP INTERNATIONAL (K)",
+        "title":"IT Technical Support ",
+        "years":"August 2021 - Present",
+        "description":"Consultation,software and hardware support"
+      },
+      {
         "company":"DREAMARN",
         "title":"Technical Support & Digital marketing",
         "years":"March 2021 - June 2021",
@@ -90,6 +96,12 @@
         "title":"Technical Support ",
         "years":"June 2020 - August 2020",
         "description":"Performed coding reviews and completed 50+ reviews for students in the HTML & CSS curriculum. Provided support through professional assistance platforms Zoom and Slack as they needed extra support during their projects."
+      },
+      {
+        "company":"Swahilipot Hub",
+        "title":"Community Member",
+        "years":"September 2017 - Present",
+        "description":"Deliver presentations during community events to promote tech skills and tech talent development in the community"
       }
     ]
   },
