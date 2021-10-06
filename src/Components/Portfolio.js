@@ -24,7 +24,10 @@ class Portfolio extends Component {
                       </div>
                       <div className="languages">
                         <i className="devicon-django-plain-wordmark  technology"></i>
-                        <i className="devicon-react-plain-wordmark technology"></i>
+                        <i className="devicon-python-plain-wordmark  technology"></i>
+                        <i className="devicon-javascript-plain colored technology"></i>
+                        <i className="devicon-css3-plain-wordmark colored technology"></i>
+                        <i className="devicon-html5-plain-wordmark colored technology"></i>
                       </div>
                     </ul>
                   </div>
@@ -63,8 +66,9 @@ class Portfolio extends Component {
                         <li><a href="https://dreamarn.netlify.app" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
                       </div>
                       <div className="languages">
-                        <i className="devicon-python-plain-wordmark  technology"></i>
-                        <i className="devicon-django-plain-wordmark  technology"></i>
+                      <i className="devicon-javascript-plain colored technology"></i>
+                        <i className="devicon-css3-plain-wordmark colored technology"></i>
+                        <i className="devicon-html5-plain-wordmark colored technology"></i>
                       </div>
                     </ul>
                   </div>
@@ -83,8 +87,9 @@ class Portfolio extends Component {
                         <li><a href="https://kb6adventures.netlify.app" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
                       </div>
                       <div className="languages">
-                        <i className="devicon-django-plain-wordmark  technology"></i>
-                        <i className="devicon-python-plain-wordmark  technology"></i>
+                        <i className="devicon-javascript-plain colored technology"></i>
+                        <i className="devicon-css3-plain-wordmark colored technology"></i>
+                        <i className="devicon-html5-plain-wordmark colored technology"></i>
                       </div>
                     </ul>
                   </div>
