@@ -39,6 +39,12 @@
   "resume":{
     "education":[
       {
+        "school":"Swahilipot Hub",
+        "degree":"Cyber Security HCIA.",
+        "graduated":"July 2021",
+        "description":"HCIA Security course provides the ability to configure and maintain small and medium-sized enterprise information security solutions and network security for SMBs and meet the basic needs of a variety of security applications."
+      },
+      {
         "school":"Udemy Online Academy",
         "degree":"Node Js Developer course.",
         "graduated":"July 2021",
@@ -76,7 +82,7 @@
       {
         "company":"Rangi Yetu",
         "title":"Digital Literacy Trainer - PART-TIME ",
-        "years":"November 2021 - Present",
+        "years":"November 2021 - 25th March 2022",
         "description":"Graphic design,Web-development,Cyber-Security and Artificial Intelligence(AI)"
       },
       {
