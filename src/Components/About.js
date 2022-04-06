@@ -25,9 +25,10 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>I studied Computer Science, and during my studies I got in contact with the basic concepts of programming. Since then I've always wanted to become a developer. Fortunately I  discovered Pwani Computer Science student Assosciation (PUCSA) and later on Swahilipot HUb and joined without any hesitation.<br /><br />
+            <p>With over one year of experience,Cyber-security has been my best field of practice from the knowledge gained by studying computer Science,despite my physical work has been on software development,this is due to much love for coding as well and the need to know the structure of software for security diagnostic purpose.<br /><br />
 
-            I am passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring exciting web development opportunities in startups as well as companies with scale.</p>
+            I am passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero.
+             I am Open for exploring exciting cyber-security, system penetration testing, software and hardware trouble-shooting opportunities in startups as well as companies with scale.</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
