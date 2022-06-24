@@ -10,7 +10,7 @@ class Portfolio extends Component {
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
-                  <a href="https://github.com/pyish/SoinVet" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/soin.png" alt="final-capstone" /></a>
+                  <a href="#" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/soin.png" alt="final-capstone" /></a>
                   <div className="art-description">
                     <div className="text-wrapper">
                       <h3>Veterinary Web app</h3>
@@ -20,7 +20,7 @@ class Portfolio extends Component {
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
-                        <li><a href="http://ishasr.pythonanywhere.com/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                        <li><a href="#" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
                       </div>
                       <div className="languages">
                         <i className="devicon-django-plain-wordmark  technology"></i>
@@ -35,7 +35,7 @@ class Portfolio extends Component {
               </div>
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
-                  <a href="https://github.com/pyish/travel3" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/07.png" alt="react-capstone" /></a>
+                  <a href="#" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/07.png" alt="react-capstone" /></a>
                   <div className="art-description">
                     <div className="text-wrapper">
                       <h3>fashion_web</h3>
@@ -43,7 +43,7 @@ class Portfolio extends Component {
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
-                        <li><a href="https://shishaa.pythonanywhere.com/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                        <li><a href="#" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
                       </div>
                       <div className="languages">
                         <i className="devicon-django-plain-wordmark  technology"></i>
@@ -55,7 +55,7 @@ class Portfolio extends Component {
               </div>              
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
-                  <a href="https://github.com/pyish/dreamarn.git" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/01.jpg" alt="ror-capstone-lifestyle" /></a>
+                  <a href="#" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/01.jpg" alt="ror-capstone-lifestyle" /></a>
                   <div className="art-description">
                     <div className="text-wrapper">
                       <h3>Dreamarn </h3>
@@ -63,7 +63,7 @@ class Portfolio extends Component {
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
-                        <li><a href="https://dreamarn.netlify.app" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                        <li><a href="#" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
                       </div>
                       <div className="languages">
                       <i className="devicon-javascript-plain colored technology"></i>
@@ -76,7 +76,7 @@ class Portfolio extends Component {
               </div>
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
-                  <a href="https://github.com/pyish/kinanta.git" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/ishtravel.png" alt="react-capstone" /></a>
+                  <a href="#" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/ishtravel.png" alt="react-capstone" /></a>
                   <div className="art-description">
                     <div className="text-wrapper">
                       <h3>KB6 Adventures</h3>
@@ -84,7 +84,7 @@ class Portfolio extends Component {
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
-                        <li><a href="https://kb6adventures.netlify.app" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                        <li><a href="#" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
                       </div>
                       <div className="languages">
                         <i className="devicon-javascript-plain colored technology"></i>
