@@ -24,7 +24,7 @@ class Header extends Component {
               <li><a className="smoothscroll" href="#portfolio">Works</a></li>
               <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
               <li><a className="smoothscroll" href="#contact">Contact</a></li>
-              <li><a className="smoothscroll" href="#articles">Articles published</a></li>
+              <li><a className="smoothscroll" href="#https://www.linkedin.com/in/ishmael-kipkoech/">Articles published</a></li> 
            </ul>
          </nav>
 

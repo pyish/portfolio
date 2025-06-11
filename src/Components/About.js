@@ -25,10 +25,10 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>With over one year of experience,Cyber-security has been my best field of practice from the knowledge gained by studying computer Science,despite my physical work has been on software development,this is due to much love for coding as well and the need to know the structure of software for security diagnostic purpose.<br /><br />
-
-            I am passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero.
-             I am Open for exploring exciting cyber-security, system penetration testing, software and hardware trouble-shooting opportunities in startups as well as companies with scale.</p>
+            <p>Dedicated Technical Support Specialist with a strong passion for cybersecurity and extensive
+expertise in vulnerability assessment, SOC operations, and IT security implementation. Proven
+track record in fortifying networks, conducting thorough risk assessments, and implementing
+effective security policies. Proficient in advanced security technologies and tools..</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>

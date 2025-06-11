@@ -1,14 +1,14 @@
 {
   "main": {
     "name":"Ishmael ",
-    "occupation":" Web Developer",
-    "description":"I like to code,Pentest, researching on cyber-security and enjoy bringing ideas to life in the browser",
+    "occupation":" Security Analyst",
+    "description":"I like to Recon,Pentest, researching on cyber-security and enjoy bringing ideas to life in the browser",
     "image":"profilepic.jpg",
-    "contactmessage":"Have me work on your ideas and start_ups. If you like my work and have some cool projects to work on, just send me a direct message or contact me through social sites.",
+    "contactmessage":"Secure your systems and networks with a dedicated cybersecurity professional committed to protecting your business from threats. Whether you have a startup or an established project, I offer expert vulnerability assessments, network security, and IT protection services tailored to your needs. Interested in strengthening your security posture? Let’s connect—send me a direct message to discuss how I can help safeguard your digital assets.",
     "email": "ishasir05@gmail.com",
-    "phone": "+254 727 530 800",
+    "phone": "+254 741 800 327",
     "address":{
-      "city":"Nairobi",
+      "city":"Global citizen",
       "state":"Kenya",
       "zip": "35358 - 0100"
     },
@@ -39,7 +39,25 @@
   "resume":{
     "education":[
       {
-        "school":"Swahilipot Hub",
+        "school":"CyberShujaa - Nairobi,Kenya",
+        "degree":"Security Analyst certification ,(ONGOING).",
+        "graduated":"May 2025",
+        "description":"The knowledge,the Labs and exposure is exciting. Interacting and using these tools; Python Scripting,WHOIS,Sublist3r,CRT.sh,Shodan,Maltego,NMAP,"
+      },
+      {
+        "school":"BurpSuite Academy - Virtual",
+        "degree":"Web Security Certification,(ONGOING).",
+        "graduated":"November 2024",
+        "description":"Burpsuite`s learning content is all a practical based, with currently completed the Apprentice phase of 59labs, I am on the practitioner with 171 labs."
+      },
+      {
+        "school":"Voronezh State University - Voronezh,Russia",
+        "degree":"Information Security.",
+        "graduated":"November 2023",
+        "description":"Information security is all what make a company."
+      },
+      {
+        "school":"Swahilipot Hub - Mombasa,Kenya",
         "degree":"Cyber Security HCIA.",
         "graduated":"April 2022",
         "description":"HCIA Security course provides the ability to configure and maintain small and medium-sized enterprise information security solutions and network security for SMBs and meet the basic needs of a variety of security applications."
@@ -58,21 +76,21 @@
       },
 
       {
-        "school":"Swahilipot Hub ",
+        "school":"Swahilipot Hub - Mombasa,Kenya",
         "degree":"Python Programming",
         "graduated":"May 2020 - June 2020",
         "description":"Learned Python and its frameworks(Django). Contributed to the team with small tasks, such as code review, design improvements, etc."
       },
 
       {
-        "school":"Swahilipot Hub ",
+        "school":"Swahilipot Hub - Mombasa,Kenya",
         "degree":"CISCO,Networking Academy",
         "graduated":"June 2020 - July 2020",
         "description":"Certified. I did Networking Essentials and Introduction to Cyber Security."
       },
 
       {
-        "school":"Pwani  University ",
+        "school":"Pwani  University - Kilifi,Kenya ",
         "degree":"Computer Science",
         "graduated":"Alumni",
         "description":"The first year required the study of foundations of mathematics, physics, computer science, computer networks and electronics. The second year required the study of advanced mathematics and physics, and the fundamentals of electronic systems."
@@ -80,19 +98,37 @@
     ],
     "work":[
       {
-        "company":"EAGLE GROUP INTERNATIONAL (K)",
+        "company":"MsingiPack - Nairobi,Kenya",
+        "title":"Part time Cyber Security Researcher & Vulnerability Assessor",
+        "years":"July 2024 - Present",
+        "description":"Conduct vulnerability assessments,Identify and Prioritize vulnerabilities and assist in policy documentation."
+      },
+      {
+        "company":"INNOVUS CONSULTANCY - Mombasa,Kenya",
+        "title":"IT Support specialist",
+        "years":"June 2023 - Present",
+        "description":"File-server  and network monitoring,Consultation,software and hardware support"
+      },
+      {
+        "company":"MSINGI PACK -Nairobi,Kenya",
+        "title":"IT SUPPORT ",
+        "years":"July 2022 - MAY 2023",
+        "description":"software and hardware support"
+      },
+      {
+        "company":"EAGLE GROUP INTERNATIONAL (K) - Nairobi,Kenya",
         "title":"IT Technical Support ",
         "years":"July 2021 - Present",
         "description":"Consultation,software and hardware support"
       },
       {
-        "company":"Rangi Yetu",
+        "company":"Rangi Yetu -Nairobi,Kenya",
         "title":"Digital Literacy Trainer - PART-TIME ",
         "years":"November 2021 - 25th March 2022",
         "description":"Graphic design,Web-development,Cyber-Security and Artificial Intelligence(AI)"
       },
       {
-        "company":"DREAMARN",
+        "company":"DREAMARN - Nairobi,Kenya",
         "title":"Technical Support & Digital marketing",
         "years":"March 2021 - June 2021",
         "description":"I have achieved alot proffesionally since  I solve some many computers and worked with many clients"
@@ -104,13 +140,13 @@
         "description":"I have achieved alot proffesionally since  I solve some many computers and worked with many clients"
       },
       {
-        "company":"Swahilipot Hub",
+        "company":"Swahilipot Hub - Mombasa,Kenya",
         "title":"Technical Support ",
         "years":"June 2020 - August 2020",
         "description":"Performed coding reviews and completed 50+ reviews for students in the HTML & CSS curriculum. Provided support through professional assistance platforms Zoom and Slack as they needed extra support during their projects."
       },
       {
-        "company":"Swahilipot Hub",
+        "company":"Swahilipot Hub - Mombasa,Kenya",
         "title":"Community Member",
         "years":"September 2017 - Present",
         "description":"Deliver presentations during community events to promote tech skills and tech talent development in the community"
@@ -120,12 +156,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Ishmael(ishasir) has a great mentality that always seeks to improve his skills. His discipline makes working with him easy and challenging at the same time. He loves to share his ideas and accomplishments with other people, which makes him very easily leave an impact in any working environment.",
+        "text":"Ishmael has a great mentality that always seeks to improve his skills. His discipline makes working with him easy and challenging at the same time. He loves to share his ideas and accomplishments with other people, which makes him very easily leave an impact in any working environment.",
         "user":"Jeremiah O. George  | Software Engineer - Full Stack developer."
       },
       {
         "text":"Ishmael is detailed orientated, has advanced system engineering and problem-solving skills. He has the ability to effectively manage several tasks at a time.",
-        "user":"Charles Masoud | Lecturer at Pwani University."
+        "user":"Charles Masoud | Lecturer at Kampala International University in Tanzania."
       }
     ]
   }
