@@ -10,7 +10,7 @@ class Portfolio extends Component {
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
-                  <a href="#" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/soin.png" alt="final-capstone" /></a>
+                   <a href="https://soinvet.com/" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/soin.png" alt="final-capstone" /></a>
                   <div className="art-description">
                     <div className="text-wrapper">
                       <h3>Veterinary Web app</h3>
@@ -20,7 +20,7 @@ class Portfolio extends Component {
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
-                        <li><a href="#" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                        <li><a href="https://soinvet.com/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
                       </div>
                       <div className="languages">
                         <i className="devicon-django-plain-wordmark  technology"></i>
@@ -32,30 +32,10 @@ class Portfolio extends Component {
                     </ul>
                   </div>
                 </article>
-              </div>
+              </div>      
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
-                  <a href="#" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/07.png" alt="react-capstone" /></a>
-                  <div className="art-description">
-                    <div className="text-wrapper">
-                      <h3>fashion_web</h3>
-                      <p>fashion_web is a E-commerce system written in Python 3 and using Django framework. The application allows users add to cart products and checkout. It allows admins to add different Categories and products in the backend.</p>
-                    </div>
-                    <ul className="actions">
-                      <div className="actions-wrapper">
-                        <li><a href="#" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
-                      </div>
-                      <div className="languages">
-                        <i className="devicon-django-plain-wordmark  technology"></i>
-                        <i className="devicon-python-plain-wordmark  technology"></i>
-                      </div>
-                    </ul>
-                  </div>
-                </article>
-              </div>              
-              <div className="article-wrapper">
-                <article className="col-12 col-12-xsmall work-item">
-                  <a href="#" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/01.jpg" alt="ror-capstone-lifestyle" /></a>
+                  <a href="https://nervous-sammet-7319dc.netlify.app/" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/01.jpg" alt="ror-capstone-lifestyle" /></a>
                   <div className="art-description">
                     <div className="text-wrapper">
                       <h3>Dreamarn </h3>
@@ -63,7 +43,7 @@ class Portfolio extends Component {
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
-                        <li><a href="#" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                        <li><a href="https://nervous-sammet-7319dc.netlify.app/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
                       </div>
                       <div className="languages">
                       <i className="devicon-javascript-plain colored technology"></i>
@@ -76,7 +56,7 @@ class Portfolio extends Component {
               </div>
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
-                  <a href="#" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/ishtravel.png" alt="react-capstone" /></a>
+                  <a href="https://cbosadera.netlify.app/" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/ishtravel.png" alt="react-capstone" /></a>
                   <div className="art-description">
                     <div className="text-wrapper">
                       <h3>KB6 Adventures</h3>
@@ -84,7 +64,7 @@ class Portfolio extends Component {
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
-                        <li><a href="#" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                        <li><a href="https://cbosadera.netlify.app/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
                       </div>
                       <div className="languages">
                         <i className="devicon-javascript-plain colored technology"></i>
